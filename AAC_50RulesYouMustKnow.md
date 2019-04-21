@@ -1,5 +1,6 @@
-4. Rhythm and Intonation
-> NOUN = stress first syllable
+日期|课程
+--|--
+2019-04-21|DVD4：rule 1 - rule 15
 
-> VERB = stress second syllable
+
 
