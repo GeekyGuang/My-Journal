@@ -8,8 +8,10 @@ eslpod 听78 (23')
 17:40 python 18:00
 18:42 python 19:13
 19:23 eslpod script 77 19:52
-
+20:42 script 78 20:51
+21:18 script 78 21:27
 > python ex26 
+> eslpod script 77, 78 
 
 ***
 
