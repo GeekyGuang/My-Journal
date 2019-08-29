@@ -10,8 +10,10 @@ eslpod 听78 (23')
 19:23 eslpod script 77 19:52
 20:42 script 78 20:51
 21:18 script 78 21:27
-> python ex26 
-> eslpod script 77, 78 
+
+> python ex26  (1^35')
+> eslpod script 77, 78 (1^10')
+> 练字 (26')
 
 ***
 
@@ -24,5 +26,6 @@ eslpod 听78 (23')
 18:48 听eslpod 77课 17:17
 19:35 python 20:35
 
-> python 2^44' ex23
-> eslpod 29' 听77课 
+> python ex23 (2^44')
+> eslpod 听77课 (29')
+> 练字 (31')
