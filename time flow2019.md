@@ -9,6 +9,7 @@ eslpod 79 (18')
 
 > python ex32 (1^30')
 > eslpod 79 mp3+script(43')
+> 练字 (35')
 
 ***
 ### 2019-08-29 Thu
