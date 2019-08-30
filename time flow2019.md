@@ -6,6 +6,10 @@
 eslpod 79 (18')
 17:18 script 79 19:43
 19:53 python 20:17
+
+> python ex32 (1^30')
+> eslpod 79 mp3+script(43')
+
 ***
 ### 2019-08-29 Thu
 
