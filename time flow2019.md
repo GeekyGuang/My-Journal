@@ -6,6 +6,9 @@
 14:27 python 14:50
 15:02 python 15:42
 
+> python ex36 (1^56')
+> Harry Potter (33')
+
 ***
 ### 2019-08-30 Fri
 
