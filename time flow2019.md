@@ -2,10 +2,18 @@
 8:53 python 9:18
 9:28 python 9:54
 10:15 python 10:52
+12:25 harry potter 13:06
 16:51 python 17:09
 18:34 python 19:14
 19:48 python 20:32
+22:51 python video 40 23:07
 
+> 学会新知识的标志是它仿佛成为身体的一部分，你可以下意识的自如的运用它
+> 学习最有效的方法是先自学，然后再听老师讲解
+
+> python ex41 (3^26')
+>
+> - [x] Harry potter and the philosopher's stone (41')
 ***
 ### 2019-09-03
 19:13  python  19:35
