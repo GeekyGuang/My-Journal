@@ -14,7 +14,12 @@ englishpod c10 10'
 16:43 语法 16:51
 englishpod c11 25'
 17:43 语法 18:05
+englishpod c12 22'
 
+> 语法 test14(1^57')
+> python (16')
+> Englishpod c8-c12 (1^45')
+> harry potter ()
 ***
 ### 2019-09-16
 8:55 python 9:30
