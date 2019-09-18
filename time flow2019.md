@@ -1,5 +1,10 @@
 - [ ] 看 python45视频
 ***
+### 2019-09-18
+englishpod c13 20'
+10:44 语法 10:59
+11:05 - 
+***
 ### 2019-09-17
 8:58 语法 9:15
 9:19 Englishpod c8 9:36
@@ -15,12 +20,14 @@ englishpod c10 10'
 englishpod c11 25'
 17:43 语法 18:05
 englishpod c12 22'
-
+23:58 harry potter 00:30
 > 语法 test14(1^57')
 > python (16')
 > Englishpod c8-c12 (1^45')
-> harry potter ()
+> harry potter (1^06')
+> --------- 5^04'----------
 ***
+
 ### 2019-09-16
 8:55 python 9:30
 Englishpod c4-c6 (48')
