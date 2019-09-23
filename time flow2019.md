@@ -3,6 +3,8 @@
 ### 2019-09-23
 englishpod c26 14'
 englishpod c27 14'
+englishpod c28 18'
+19:23 语法 
 
 ***
 ### 2019-09-21
