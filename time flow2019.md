@@ -1,5 +1,10 @@
 - [ ] 看 python45视频
 ***
+### 2019-09-23
+englishpod c26 14'
+englishpod c27 14'
+
+***
 ### 2019-09-21
 englishpod c24 16'
 englishpod c25 18'
