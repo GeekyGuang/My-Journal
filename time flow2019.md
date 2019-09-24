@@ -3,7 +3,9 @@
 ### 2019-09-24
 englishpod c30 17'
 11:23 语法 11:50
-16:49 语法 
+16:49 语法 17:00
+englishpod c31 14'
+englishpod c32 17'
 ***
 ### 2019-09-23
 englishpod c26 14'
