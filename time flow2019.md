@@ -1,4 +1,10 @@
 ***
+### 2019-10-08
+harry potter 12:15 - 12:46
+englishpod 42 15'
+15:05 grammar  unit 4 15:45
+
+***
 ### 2019-10-05
 englishpod c41 20'
 eslpod c81 mp3  23' 
