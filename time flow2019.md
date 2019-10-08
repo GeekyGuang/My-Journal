@@ -6,6 +6,11 @@ englishpod 42 15'
 englishpod 43 25'
 16:35 eslpod 82 17:05 
 englishpod 44 15’
+eslpod 83 18:30 - 19:05
+
+> eslpod:1.不看文本听材料2遍 2看文本听对话2遍 3听讲解 4.阅读learning guide 5.不看文本听一遍，看文本听一遍，不看文本再听一遍
+>
+> englishpod ：主持人讲解 -> 单词review -> 文本 -> 材料
 
 ***
 ### 2019-10-05
