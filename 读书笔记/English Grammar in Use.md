@@ -23,4 +23,21 @@
 
    > We use am/is/are being to say how a person is behaving (= doing something they can control) now.
 
-4. 
+4. fly -> flew -> flown
+
+5. we use the past simple to say that one thing happened afu er another:
+
+   When Karen arrived, we had dinner.
+   (= Karen arrived, and then we had dinner)
+
+6. When we use the present perfect, there is a connection with now. The action in the past has a result now:
+
+   简单式强调时间，而完成式强调结果
+
+   We say ‘It’s the (first) time something has happened：
+
+   It’s the first time he has driven a car. (not drives)
+
+   Sarah has lost her passport again. This is the second time this has happened. (not happens)
+
+7. 
