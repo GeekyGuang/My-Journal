@@ -40,4 +40,37 @@
 
    Sarah has lost her passport again. This is the second time this has happened. (not happens)
 
-7. 
+7. We use the present perfect continuous for an activity that has recently stopped or just stopped:
+   Why are you out of breath? Have you been running?
+   Paul is very tired. He’s been working hard.
+
+   How long have you beening learning English?
+
+   How long have you beening waiting?
+
+   We have beening waiting for 20 minutes.
+
+   可翻译成：**刚刚一直在**
+
+   可能刚刚停止也可能还在继续
+
+   完成进行时强调动作
+
+   完成时强调结果
+
+   how long have you been married?  
+
+   ** ing和ed都可看作形容词**
+
+   > We use the present perfect to talk about something that began in the past and still
+   > continues now.
+
+   But we use the simple (have lived etc.) with always:
+   I’ve always lived in the country. (not always been living)
+   
+   It is two years since I last saw Joe. or It has been two years since  
+
+
+   
+
+   
