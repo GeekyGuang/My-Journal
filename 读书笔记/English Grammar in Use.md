@@ -69,8 +69,36 @@
    I’ve always lived in the country. (not always been living)
    
    It is two years since I last saw Joe. or It has been two years since  
+   
+8. 现在完成式和过去式
 
+   现在完成式能表明当前的状态或结果
+
+   过去式只能说明这件事在过去的时间节点发生过，但不能表明现在的状态或结果
+
+   We use the present perfect for a period of time
+   that continues until now. For example:
+   **today** / this week / since 2010.
+
+   We use the past simple for a finished time in
+   the past. For example:
+   yesterday / last week / from 2010 to 2014.
 
    
+
+   there **were** no buses.
+
+9. 截止到过去的时间，用过去完成时 had done
+
+10. had been doing 强调动作持续截止到过去的时间
+
+    You can say that something had been happening before something else happened:
+    We’d been playing tennis for about half an hour **when** it started to rain heavily.
+
+    **When** we got home last night, we found that somebody had broken into the flat.
+
+    用完成时还是完成进行时与when无关，二者有时可通用
+
+
 
    
