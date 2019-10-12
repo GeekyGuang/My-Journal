@@ -99,6 +99,43 @@
 
     用完成时还是完成进行时与when无关，二者有时可通用
 
+11. have sth = have got sth
 
+    过去时用had，否定和疑问用do/did,  没有had got
+
+    have a shower/ have a swim/ have breakfast等只能用have
+
+    I've got a sore throat.
+
+    do you have ...?
+
+    have no time
+
+    have a look at it
+
+12. I **used to do** something = I did it ofu en in the past, but not any more:
+
+    I used to play tennis a lot, but I don’t play very much now.
+
+    过去常常做，但是现在不做了
+
+    We also use used to … for things that were true, but are not true any more:
+    This building is now a furniture shop. It used to be a cinema.
+
+    疑问句
+
+    **Did you use to** go to swimming?
+
+    否定句
+
+    I **didn't use to** ...
+
+    **never used to **
+
+    I used to do VS **I am used to doing**
+
+    I am used to living alone.习惯了某事
+
+    
 
    
