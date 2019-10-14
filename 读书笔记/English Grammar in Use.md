@@ -168,4 +168,43 @@
 
     否定 I'm not going to do
 
-15. 
+15.  ** will** 用于临时当场做的决定 “将/会” 或者是对将来的预言
+
+    We use will to say what we know or believe about the future (not what someone has already decided).
+
+    如果是在说话之前就做过了决定用be going to, 我要做某事
+
+    I think I will ...
+
+    will you ...?
+
+    shall I/we...?
+
+    will不能用于已经计划好的事
+
+    I can't meet you tomorrow morning. I'm playing tennis.
+
+    
+
+    I think James is going to the party on Friday. (= I think he has already decided to go)
+    I think James will go to the party on Friday. (= I think he will decide to go)
+
+    
+
+    I shall/shan't= I will/won't
+
+    
+
+    will 和 be going to 都可以用于对将来的预言
+
+    be going to 基于客观事实的推测
+
+    will 基于直觉
+
+     It's going to be a nice day.
+
+    He will be late again.
+
+16.  will be doing / will have done
+
+    will 是对将来的预言或描述而不是决定
