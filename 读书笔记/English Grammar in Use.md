@@ -136,6 +136,36 @@
 
     I am used to living alone.习惯了某事
 
-    
+13. **I’m doing** something (tomorrow etc.) = I have already decided and arranged to do it:
+    a: What are you doing on Saturday evening? (not What do you do)
+    b: I’m going to the cinema. (not I go)
 
-   
+    We also use the present continuous for an action just before you start to do it. 
+
+    已经安排好的或者正在做的用现在进行时，不能用will
+
+    谈论时间表的时候用一般时
+
+    We use the present simple when we talk about timetables and programmes (for example, transport or cinema times):
+    I have to go. My train leaves at 11.30.
+    What time does the film start tonight?
+    The meeting is at nine o’clock tomorrow.
+
+    When you talk about appointments, lessons, exams etc., you can use I have or I’ve got:
+    I have an exam next week. or I’ve got an exam next week.
+
+14. I'm going to (do) 决定好了要做，但是时间不确定
+
+    somthing is going to happen 可以断定某件事要发生
+
+    It is going to rain.
+
+    I was going to 本来计划好了要做但是没有做
+
+    somthing was going to happen 本来要发生但是没有发生
+
+    What were you going to say?你刚刚想说什么？
+
+    否定 I'm not going to do
+
+15. 
