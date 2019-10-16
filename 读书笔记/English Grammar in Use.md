@@ -208,3 +208,25 @@
 16.  will be doing / will have done
 
     will 是对将来的预言或描述而不是决定
+    
+17. when I do 当一件事发生时另一件事同时发生
+
+    whe I have done 一件事发生之后，另一件事才发生
+
+    If 可能发生
+
+    when 必定发生
+
+18. can/could /be able to
+
+    could有能力 smell/speak
+
+    有时必须用be able to
+
+    must be able to do 有能力做什么
+
+    have been able to
+
+    used to be able to
+
+    managed to
