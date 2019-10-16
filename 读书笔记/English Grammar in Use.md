@@ -243,4 +243,10 @@
 
     He could have hurt himself when he fell.
 
+    You could have come out with us. 本来可以
     
+    It couldn't have been better.
+    
+20. must 一定/肯定 can't 不可能
+
+    must/couldn't/can't have done
