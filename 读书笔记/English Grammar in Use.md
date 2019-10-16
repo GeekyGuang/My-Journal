@@ -230,3 +230,17 @@
     used to be able to
 
     managed to
+
+19. could: suggestion, not realistic, possible in the future.
+
+    We could go to the cinema.
+
+    I could stay here for ever.
+
+    The story could be true.
+
+    could have: 可能，但还没发生(只用在过去)
+
+    He could have hurt himself when he fell.
+
+    
