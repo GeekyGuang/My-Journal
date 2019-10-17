@@ -273,6 +273,30 @@
 
     Buses are so expensive these days, you might as well get a taxi.
 
+22. have to   不得不
     
+    must 必须/一定
 
+    do/might have to
+    
+    过去式用had to，不用must
+    
+    mustn't 禁止
+    
+    don't have to不必 = needn't / don't need to
+    
+    have got to = have to
+    
+    when has Helen got to go?
+    
+    when does Helen have to go?
+    
+    needn't have done 已经做了但没必要
+    
+23. 
+    
+    
+    
+    
+    
     
