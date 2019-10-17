@@ -250,3 +250,29 @@
 20. must 一定/肯定 can't 不可能
 
     must/couldn't/can't have done
+    
+21. may/might/could
+
+    it may/might/could也许 be/have
+
+    may/might not 也许没有 <> couldn't 不可能
+
+    maybe
+
+    - We use may and might to talk about possible actions or happenings in the future:
+
+    I may/might buy a car
+
+    - But we use might (not may) when the situation is not real:
+      If they paid me better, I might work harder. (not I may work)
+
+    - We might as well do something = we should
+      do it because there is no better alternative.
+      There is no reason not to do it.
+      You can also use may as well.
+
+    Buses are so expensive these days, you might as well get a taxi.
+
+    
+
+    

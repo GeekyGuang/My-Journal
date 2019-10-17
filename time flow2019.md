@@ -1,4 +1,10 @@
 ***
+### 2019-10-17
+englishpod 55 25'
+9:15 eslpod 89 9:43 28'
+9:44 grammar 30 9:59 15'
+
+***
 ### 2019-10-16
 englishpod 52 20'
 englishpod 53 20'
