@@ -293,7 +293,55 @@
     
     needn't have done 已经做了但没必要
     
-23. 
+23. should应该
+    
+    shouldn't 不应该
+    
+    should have done 应该做但是没有做
+    
+    you should have come, but you didn't.
+    
+    shouldn't have done 不该做但是做了
+    
+    ought to 可以替换所有的should
+    
+    ought to do
+    
+    ought to have done
+    
+24. use should after: insist demand recommend suggest propose
+    
+    I insisted that he should apologise.
+    
+    It's essential that he should be here.
+    
+    也可以去掉should
+    
+    I insisted that he apologise.
+    
+    It's essential that he be here.
+    
+    **suggest** 不用 to
+    
+    I suggested that she (should) buy a car.
+    
+    在形容词后用should表示不该发生的事发生了
+    
+    It's strange that he should be late.He's usually on time.
+    
+    用should表示这件事发生的可能性很小
+    
+    If the situation should change, we will contact you.
+    
+    should the situation change,  we will contact you.
+    
+    用should提建议，如果是我，我会怎么样
+    
+    ‘Shall I leave now?’ 'No, I should wait a bit.'(如果是我我会再等等)
+    
+    what do you suggest I (should) do?
+    
+25. 
     
     
     
