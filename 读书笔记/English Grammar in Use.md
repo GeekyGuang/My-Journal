@@ -211,7 +211,7 @@
     
 17. when I do 当一件事发生时另一件事同时发生
 
-    whe I have done 一件事发生之后，另一件事才发生
+    when I have done 一件事发生之后，另一件事才发生
 
     If 可能发生
 
@@ -341,10 +341,78 @@
     
     what do you suggest I (should) do?
     
-25. 
+25. had better/ had better not
     
+    we'd better go now.
     
+    It’s time somebody **did** something = they should have already done it or started it.
     
+    He’s very selfish. It’s time he realised that he isn’t the most important person in the world.
     
+    也可以用 It's about time ... did
     
+26. would do
+    
+    We use would (’d) / wouldn’t when we imagine a situation or action (= we think of something that is not real):
+    
+    It would be nice to buy a car
+    
+    would like/love to
+    
+    We use would have (done) when we imagine something that didn’t happen in the past:
+    
+    I didn’t tell Sam what happened. He **wouldn’t have been** pleased.
+    
+    wouldn't do = refused to do 表拒绝
+    
+    I will 我会/我可以
+    
+    I would ..., but 我想但是我不可以
+    
+    would = used to 过去常常
+    
+    Whenever Richard was angry, he would walk out of the room.
+    
+27. - asking people to do things
+    
+      can/could you do sth
+    
+      do you think you could do...
+    
+    - asking for things
+    
+      can/could/may I have these postcards, please?
+      
+    - asking to do things
+    
+      can/could/may I ask you a question?
+      
+      Do you mind if I ...?
+      
+    - offering and inviting
+      
+      can I help you?(offering)
+      
+      would you like some coffee?(inviting)
+      
+      I'd like sth/to do sth
+    
+28. 确定不会发生或者不希望发生的假设用 : If + 过去式
+
+    What would you do if you **won** a lot of money?
+    (I don’t really expect this to happen)
+    If there **was** an election tomorrow, who would
+    you vote for?
+    (there will not be an election tomorrow)
+    I’d be surprised if they **didn’t** come to the party.
+    (I expect them to come)
+
+    - If ... did....,sb would/wouldn't/could/might ...
+
+      What would you do if you were bitten by a snake?
+
+29. 
+
+    
+
     
