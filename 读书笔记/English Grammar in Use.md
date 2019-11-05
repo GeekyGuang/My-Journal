@@ -410,9 +410,39 @@
     - If ... did....,sb would/wouldn't/could/might ...
 
       What would you do if you were bitten by a snake?
-
-29. 
-
     
+29. if + did / wish + did表对现在及将来的假设
+    There are many things I’d like to do if I had more time. (but I don’t have time)
+    I wish I knew Paul’s phone number.
+(= I don’t know it and I regret this)
+    Do you ever wish you could fly?
+(you can’t fly)
+    After if and wish, you can use were instead of was (if I were / I wish it were etc.).
+You can also use was. So you can say:
+If I were you, I wouldn’t buy that coat. or If I was you, …
 
+    I wish Anna were here. or I wish Anna was here.
+
+    We do not usually say ‘if … would’. We use would (’d) in the other part of the sentence:
+    If I were rich, I **would** travel a lot. (not If I would be rich)
     
+30. if I had known... I wish I had known
+    
+    表对过去的假设
+    
+    I didn’t see you when you passed me in the street. If I’d seen you, I would have said hello.
+    
+    If you’d been looking where you were going, you wouldn’t have walked into the wall.
+    (but you weren’t looking)
+    
+    I wish I’d known that Gary was ill. I would have gone to see him. (but I didn’t know)
+    
+    I wish I’d seen him. (= I didn’t see him)
+    
+    Compare **would (do)** and **would have (done)**:
+    If I’d gone to the party last night, I would be tired now. (I am not tired now – present)
+    If I’d gone to the party last night, I would have met lots of people. (I didn’t meet lots
+    of people – past)
+    
+31. 
+
