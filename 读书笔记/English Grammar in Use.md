@@ -444,5 +444,16 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     If I’d gone to the party last night, I would have met lots of people. (I didn’t meet lots
     of people – past)
     
-31. 
+31. - I wish you something
+      - I wish you good luck
+    - hope something happens
+      - I hope you enjoy your stay at this hotel.
+    - I wish I knew what to do about the problem(but I don't know) 对现在的regret
+    - I wish  I hadn't said it.(but I said it) 对过去的regret
+    - I wish I could do
+      - I wish I could remember his name(but I can't) 现在不能
+    - I wish I could have done
+      - I wish I could have gone.(but I couldn't go) 过去不能
+    - wish something would happen
+      - I wish Sarah would come.(不可以用would be/have sth)
 
