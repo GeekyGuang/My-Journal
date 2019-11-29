@@ -457,3 +457,8 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     - wish something would happen
       - I wish Sarah would come.(不可以用would be/have sth)
 
+32. passive 
+
+    something be done by sb
+
+33. 
