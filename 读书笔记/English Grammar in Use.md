@@ -461,4 +461,18 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
     something be done by sb
 
-33. 
+33. It is said that he is 80 years old = He is said/supposed to be 80 years old.
+
+    You are not supposed to park your car here.
+
+34. have/get something done 安排某事被别人做,而不是自己做
+
+    Lisa had the roof repaired yesterday.
+
+    have/get  your hair cut
+
+35. 
+
+    
+
+    
