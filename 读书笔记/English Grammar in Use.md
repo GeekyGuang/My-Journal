@@ -471,8 +471,31 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
     have/get  your hair cut
 
-35. 
+35. reported speech 1 改成过去式说过去完成式
 
+    - Paul said that he was feeling ill.
+    - Paul said (that) he had woken up felling ill, so he hadn't gone to work.
+36. If the situation is still the same, it is not necessary to change the verb to the past. 
     
-
+    Paul said that his new job is boring.
+    (The situation is still the same. His job is still boring now.)
     
+    But if the situation has changed or finished, you need to use a past verb. 
+    
+    You need to use the past in reported speech when what was said is different from what is really true.
+    
+    Joe, this is a surprise. Rachel said you were in hospital.
+    
+    Rachel **told** me that you were in hospital. 
+    
+    The doctor **told** me **to** drink plenty of water.
+    
+    Jackie **asked** me **to** help her.
+    
+    say something
+    
+    tell sb something
+    
+    tell/ask sb (not) to do something
+    
+37. 
