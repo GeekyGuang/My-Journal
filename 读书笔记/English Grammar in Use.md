@@ -498,4 +498,35 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     
     tell/ask sb (not) to do something
     
-37. 
+37. In these examples, who/what etc. is the **subject**:
+
+    - Who wants something to eat? (not Who does want)
+    - What happened to you last night? (not What did happen)
+    - How many people came to the party? (not did come)
+    - Which bus goes to the centre? (not does go)
+
+    Note the meaning of yes and no in answers to negative questions:
+    ‘Don’t you want to go?’
+
+    - ‘Yes.’ (= Yes, I want to go)
+    - ‘No.’ (= No, I don’t want to go)
+
+38. When the question (Where has Tom gone?) is part of a longer sentence (Do you know … ? /
+    I don’t know … / Can you tell me … ? etc.), the word order changes.
+
+    - Do you know what time it is?
+    - Do you know what time the film starts?
+
+    Use if or whether where there is no other question word (what, why etc.):
+
+    - Did anybody see you? 
+
+      but I don’t know **if** anybody saw me.
+      or … **whether** anybody saw me.
+
+    - Are you willing to travel?
+
+      She asked if (or whether) I was willing to travel.
+
+39. 
+
