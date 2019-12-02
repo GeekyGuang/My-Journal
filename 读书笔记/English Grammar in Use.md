@@ -475,6 +475,7 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
     - Paul said that he was feeling ill.
     - Paul said (that) he had woken up felling ill, so he hadn't gone to work.
+    
 36. If the situation is still the same, it is not necessary to change the verb to the past. 
     
     Paul said that his new job is boring.
@@ -498,6 +499,8 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     
     tell/ask sb (not) to do something
     
+
+<<<<<<< HEAD
 37. In these examples, who/what etc. is the **subject**:
 
     - Who wants something to eat? (not Who does want)
@@ -528,5 +531,18 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
       She asked if (or whether) I was willing to travel.
 
-39. 
 
+39. Auxiliary verbs 助动词
+    - ‘You didn’t lock the door before you lefu.’ ‘Yes, I did.’ (= I locked the door)
+    - ‘Have you locked the door?’ ‘Yes, I have.’ (= I have locked the door)
+    - ‘Do you like onions?’ ‘Yes, I do.’ (= I like onions)
+    - ‘Lisa isn’t very well today.’ ‘Isn’t she? What’s wrong with her?’
+    - ‘I’m tired.’ ‘So am I.’ (= I’m tired too)
+      ‘I never read newspapers.’ ‘Neither do I.’ (= I never read     newspapers either)
+    - ‘I don’t know.’ ‘Neither do I.’ or ‘Nor do I.’ or ‘I don’t either.’
+    - I think so / I suppose so/I hope so, I guess so and I’m afraid so.
+    - I don’t think so / I don’t expect so
+    - I hope not / I’m afraid not/I guess not / I suppose not
+    - ‘Please help me.’ ‘I’m sorry. I would if I could , but I can't .’
+    - I won’t be at home tomorrow.Neither will I
+40. 
