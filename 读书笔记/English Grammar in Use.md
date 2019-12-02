@@ -545,4 +545,16 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     - I hope not / I’m afraid not/I guess not / I suppose not
     - ‘Please help me.’ ‘I’m sorry. I would if I could , but I can't .’
     - I won’t be at home tomorrow.Neither will I
-40. 
+    
+40. ‘You’re not going out this morning, are you?’
+
+    - ‘Yes.’ (= Yes, I am going out)
+      ‘No.’ (= No, I am not going out)
+
+    Let’s go for a walk, shall we? (the voice goes up)
+
+    Don’t be late, will you? (the voice goes down)
+
+    ‘I’m right, aren’t I?’ ‘Yes, you are.’
+
+    
