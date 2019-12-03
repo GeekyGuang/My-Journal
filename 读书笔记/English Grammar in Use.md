@@ -563,5 +563,52 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
 42. I daren’t tell him what happened. (not I daren’t to tell him)
     
+43. We do not use suggest with to … :
+    Jane suggested that I ask you for advice. (not Jane suggested me to ask)
 
+    We say ‘make somebody do something’, ‘let somebody do something’ (without to)
+
+    We say ‘make somebody do’, but in the passive we say ‘(be) made to do’ (with to)
+
+44. I remember doing something = I did it and
+    now I remember this.You remember doing something afuer you
+    have done it.
+
+    I remembered to do something =
+    I remembered that I had to do it, so I did it.
+    You remember to do something before you
+    do it.
+
+    I regret doing something = I did it and now
+    I am sorry about it
+
+    I regret to say / to tell you / to inform you =
+    I am sorry that I have to say
+
+    go on doing something = continue doing the
+    same thing
+
+    go on to do something = do or say something
+    new
+
+45. - try to do 努力去做但可能失败
+    - try sth/doing sth 试验性的去做，不用花费多少力气
+    - sb need to 需要去做
+    - sth need doing 需要被做
+    - help (to) do 帮忙做
+    - can't help doing 忍不住做
+
+46. I prefer this coat to the other one.
+    I prefer driving to travelling by train. or
+    I prefer driving rather than travelling by train.
+    I prefer to drive rather than travel by train.
+    Sarah prefers to live in the country rather than in a city.
+
+    I’d rather do something = I’d prefer to do it.
+
+    I’d rather somebody **did** something
+
+    ‘Who’s going to drive, you or me?’ ‘I’d rather you **drove**.’ (= I would prefer this)
+
+47. 
     
