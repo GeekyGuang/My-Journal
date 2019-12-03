@@ -557,4 +557,11 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
     ‘I’m right, aren’t I?’ ‘Yes, you are.’
 
+41. I enjoy reading. (not I enjoy to read)
+
+    When I’m on holiday, I enjoy not having to get up early.
+
+42. I daren’t tell him what happened. (not I daren’t to tell him)
+    
+
     
