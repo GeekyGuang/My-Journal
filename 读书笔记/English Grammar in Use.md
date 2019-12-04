@@ -610,5 +610,8 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
     ‘Who’s going to drive, you or me?’ ‘I’d rather you **drove**.’ (= I would prefer this)
 
-47. 
+47. be/get used to sth/doing sth
     
+    used to do sth
+    
+48. 
