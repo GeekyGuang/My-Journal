@@ -614,4 +614,8 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     
     used to do sth
     
-48. 
+48. It was nice **of** you **to** take me to the airport. Thank you very much.
+
+     something is sure/likely/bound to happen
+
+49. 
