@@ -618,4 +618,53 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
      something is sure/likely/bound to happen
 
-49. 
+49. you are afraid to do something because you are afraid of something happening as a result:
+    I was **afraid to** go near the dog because I was **afraid of** being bitten.
+
+    I’m sorry for shouting at you yesterday.
+
+    I’m sorry to bother you, but I need to ask you a question.
+
+    I’m sorry to hear that Nicky lost her job.
+
+50. I saw him **do** something = he did something and I saw this.
+    I saw the complete action from start to finish:
+    He jumped over the wall and ran away. I saw this.
+    → I saw him jump over the wall and run away.
+    They went out. I heard this. → I heard them go out.
+    I saw him **doing** something = he was doing something and I saw this.
+    I saw him in the middle of doing something (not from start to finish):
+    I saw Tom as I drove past in my car. He was walking along the street.
+    → I saw Tom walking along the street.
+    I heard them. They were talking. → I heard them talking.
+
+51. - You can use -ing in this way when two things happen at the same time:
+      A man ran out of the house shouting.
+    - When one action happens before something else, we use having (done) for the first action:
+      Having found a hotel, we looked for somewhere to eat.
+    - You can also use -ing to explain something, or to say why somebody does something.
+      The sentence usually begins with -ing:
+      Feeling tired, I went to bed early. (= because I felt tired)
+
+52. - You can use some and any with plural
+      countable nouns:
+      We sang some songs.
+      Did you buy any apples?
+      We use many and few with plural countable
+      nouns:
+      We didn’t take many pictures.
+      I have a few things to do.
+    - You can use **some** and **any** with uncountable
+      nouns:
+      We listened to **some** music.
+      Did you buy any apple juice?
+      We use much and little with uncountable
+      nouns:
+      We didn’t do much shopping.
+      I have a little work to do.
+53. 
+    
+
+    
+
+    
