@@ -662,9 +662,172 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
       nouns:
       We didn’t do much shopping.
       I have a little work to do.
-53. 
     
+53.  Did you hurt **your leg**?
+    
+54. We use **a/an** when we say what kind of thing or person we mean. 
 
-    
+    We use **the** when we are thinking of a specific thing.Compare:
+    We stayed at a very cheap hotel. (a type of hotel)
+    The hotel where we stayed was very cheap. (a specific hotel)
 
-    
+55. We say ‘the same’:
+    Your sweater is the same colour as mine. (not is same colour)
+    ‘Are these keys the same?’ ‘No, they’re difg erent.’
+
+    We had lunch in a nice restaurant by **the** sea.
+
+56. go to school / be at school 去上学/在上学
+
+    go to the school / be at the school 这里学校是具体位置
+
+    go to/ at prison, jail, hospital, university, college, church
+
+    go to bed /be in bed
+
+    sat down on the bed.
+
+    go home/ at home
+
+    When he was younger, Ben hated school, but he enjoys it now.
+
+    How do your children get to and from school? Do you take them?
+
+57. We say ‘most people / most shops / most big cities’ etc. (not the most …):
+    **Most** shops accept credit cards. (not The most shops)
+
+58. - We use the … in this way to talk about a type of animal,
+      machine etc.
+
+      The girafg e is the tallest of all animals.
+      The bicycle is an excellent means of transport.
+
+      Can you play the guitar?
+      The piano is my favourite instrument.
+
+    - We use the + adjective (without a noun) to talk about groups of people. 
+
+      the old / rich
+
+    - The French are famous for their food. 
+
+      the Chinese /the Portuguese /the Swiss
+
+      French / Chinese / Mexican people are very friendly.
+
+    - Canada / a Canadian / Canadians
+
+      Germany/a German / Germans
+
+      France / a Frenchman/ the French/French people
+
+      Russia/ a Russian / Russians
+
+      Japan/ a Japanese/ the Japanese
+
+      England/ an Englishman/ the English
+
+      China/ a Chinese/ the Chinese / Chinese people
+
+59. Sometimes we use a plural noun for one thing that has two parts.
+
+    trousers/jeans/tights/shorts/pants/pyjamas/glasses/binoculars/scissors
+
+    You can also use a pair of + these words
+
+    We think of a sum of money, a period of time, a distance etc. as one thing. So we use a singular verb:
+    Fifuy thousand pounds (= it) was stolen in the robbery. (not were stolen)
+
+    Note that we say a police ofgicer / a policeman / a policewoman (not a police). but the police
+
+    a person, the people
+
+60. a three-hour journey (= a journey that takes three hours)
+    a ten-pound note (= a note with the value of ten pounds)
+    a four-week course
+    a six-mile walk
+    two 14-year-old girls
+
+    Sam’s daughter is six years old.
+
+    Sam has a six-year-old daughter.
+
+61. - We say ‘(a friend) of mine/yours/his/hers/ours/theirs’.
+      A friend of mine = one of my friends
+
+    - On my own and by myself both mean ‘alone’. 
+
+      I like living on my own. or I like living by myself.
+
+62. In general we use **some (also somebody/someone/something)** in positive sentences and **any (also anybody etc.)** in negative sentences:
+
+    It’s a very easy exam. Hardly anybody fails. (= almost nobody fails)
+
+    We use some/somebody/something to talk about a person or thing that we know exists, or we think exists;
+
+    Are you waiting for somebody? 
+
+    But in most questions, we use any. We do not know if the thing or person exists
+    Do you have any luggage? (maybe you do, maybe not)
+
+    You can use if + any:
+    Let me know if you need anything.
+
+63. I have no luggage.
+
+    ‘How much luggage do you have?’ ‘None.’ or ‘I don’t have any.’
+
+    None of the students were/was happy. 
+
+64. We use **much and little** with uncountable nouns:
+
+    We use **many and few** with plural nouns: many people
+
+    We use **a lot of / lots of / plenty of** with both uncountable and plural nouns:
+
+    Much is unusual in positive sentences:
+
+    We didn’t spend much money. but We spent a lot of money.
+
+    little = not much, few = not many: 几乎没有
+
+    a little = some, a small amount:
+
+    a few = some, a small number:
+
+    luggage不可数 a lot of luggage
+
+65. You don’t need of after all or half. So you can say:
+    All my friends live near here. or All of my friends …
+    Half this money is mine. or Half of this money …
+
+    We say: all of us / all of you / half of it / half of them etc. You need of before it/us/you/them:
+    All of us were late. (not all us)
+    I haven’t finished the book yet. I’ve only read half of it. (not half it)
+
+66. He told us his life story, but **none of it** was true. It was all invented.
+
+67. **Both** restaurants are good. 
+
+    **Neither** restaurant is expensive. 单数，任何一个都不...
+
+    We can go to **either** restaurant. I don’t mind.
+
+    **Both of** these restaurants are good.
+    **Neither of** the restaurants we went to was expensive.
+    **I haven’t** been to either of those restaurants.
+
+    Afuer neither of … a verb can be singular or plural:
+    Neither of them **is** at home. or Neither of them **are** at home.
+
+    **Both** Chris **and** Paul were late.
+
+    **Neither** Chris **nor** Paul came to the party.
+
+    we **neither** saw **nor** heard anything.
+
+    **Either** you apologise, **or** I’ll never speak to you again.
+
+    Ben neither watches TV nor reads newspaper.
+
+    We can leave either today or tomorrow.
