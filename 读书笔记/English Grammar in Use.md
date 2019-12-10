@@ -831,3 +831,54 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     Ben neither watches TV nor reads newspaper.
 
     We can leave either today or tomorrow.
+    
+68. **All day** or the whole day = the complete day from beginning to end:
+    We spent all day on the beach. or We spent the whole day …
+    Dan was very quiet. He didn’t say a word all evening. or … the whole evening.
+    Note that we say **all day** (not all the day), **all week** (not all the week) etc.
+
+69. - We use **each** when we think of things
+      separately, one by one.
+      Study each sentence carefully.
+      (= study the sentences one by one)
+    - We use **every** when we think of things as a
+      group. The meaning is similar to all.
+      Every window in the house was open.
+      (= all the windows in the house)
+    - Each (but not every) can be used for two things:
+      In football, each team has eleven players. (not every team)
+    - We use every (not each) to say how often something happens:
+      ‘How often do you use your car?’ ‘Every day.’ (not Each day)
+      There’s a bus every ten minutes. (not each ten minutes)
+    - **everyone** and **every one**
+      Everyone (one word) is only for people (= everybody).
+      Everyone enjoyed the party. (= Everybody …)
+      Every one (two words) is for things or people:
+      Sarah is invited to lots of parties and she goes to every one. (= to every party)
+
+70. - We use **who** in a relative clause for people (not things):
+      The woman who lives next door to me is a doctor.
+
+    We also use that for people, but not which:
+    The woman that lives next door to me is a doctor. (not the woman which)
+    Sometimes you must use who (not that) for people
+
+    - When we are talking about things, we use **that** or **which** (not who) in a relative clause:
+      I don’t like stories that have unhappy endings.
+      or … stories which have unhappy endings.
+
+      In these examples that is more usual than which, but sometimes you must use which. 
+
+71. - You must use who/that/which when it is the subject of the relative clause:
+
+      The woman who lives next door to me is a doctor.
+
+      Where are the keys that were on the table?
+
+    - When who/that/which is the object, you can leave it out. So you can say:
+
+      The woman I wanted to see was away. or The woman who I wanted to see …
+
+      Did you find the keys you lost? or … the keys that you lost?
+
+72. 
