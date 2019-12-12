@@ -881,4 +881,47 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
       Did you find the keys you lost? or … the keys that you lost?
 
-72. 
+72. - Compare who and whose:
+      I met a man who knows you. (he knows you)
+      I met a man **whose** sister knows you. (his sister knows you)
+
+    - Whom is possible instead of who when it is the object of the verb (see Unit 93B):
+      George is a person whom I admire very much. (I admire him)
+
+      You can also use a preposition + whom (to whom / from whom / with whom etc.):
+      It’s important to have friends with whom you can relax. (you can relax with them)
+
+      Whom is a formal word and we do not ofu en use it in spoken English. We usually prefer to say:
+      a person I admire a lot or a person who/that I admire a lot
+
+    - We use where in a relative clause to talk about a place:
+      I recently went back to the town **where** I grew up. (I grew up there)
+
+    - We say ‘**the day** we got married’, ‘**the year** I was born’, ‘**the last time** they met’ etc. :
+      I can’t meet you on Friday. That’s the day I’m going away.
+      
+    - You can also use that:
+      The reason **that** I’m calling you … or The reason **why** I’m calling you …
+    
+73. - My brother Ben,** who** lives in Hong
+      Kong, is an architect.
+- Anna told me about her new job, **which**
+      she’s enjoying a lot.
+    - We stayed at the Park Hotel, **which** a
+      friend of ours recommended.
+    - 
+    - In these examples, the relative clauses do not
+      tell you which person or thing the speaker
+      means. We already know which thing or
+      person is meant: ‘My brother Ben’, ‘Anna’s new
+      job’ and ‘the Park Hotel’.
+      The relative clauses in these sentences give us
+      extra information about the person or thing.
+    - We use commas (**,**) with these clauses:
+      My brother Ben, who lives in Hong
+      Kong, is an architect.
+    - You cannot use **that**
+    - You cannot leave out **who** or **which**
+    - You can use **whom** for people
+    
+74. 
