@@ -923,5 +923,36 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     - You cannot use **that**
     - You cannot leave out **who** or **which**
     - You can use **whom** for people
+  
+74. - You can use a preposition + whom (for people) and which (for things).
+      So you can say:
+      to whom/ with whom/ about whom etc.
+      of which /without which/ from which etc.
+      - Mr Lee, **to whom** I spoke at the meeting, is interested in our proposal.
+      - Fortunately we had a good map, **without which** we would have got lost.
+      
+    - In spoken English we often keep the preposition after the verb in the relative clause:
+      
+      - Katherine told me she works for a company called ‘Latoma’, which I’d never heard of before.
+      
+    - We do not use whom when the preposition is in this position:
+      
+      -  Mr Lee, who I spoke to at the meeting, is interested in our proposal.(not Mr Lee, whom I spoke to …)
+      
+    - all of / most of etc. + whom/which
+      You can say:
+      Helen has three brothers, **all of whom** are married.
+      They asked me a lot of questions, **most of which** I couldn’t answer.
     
-74. 
+    - Joe got the job , which surprised everybody. 
+    
+      In this example, which = ‘the fact that Joe got the job’. 
+    
+75. - We use lefu in this way, with the meaning ‘not used, still there’:
+      We’ve eaten nearly all the chocolates. There are only a few left.
+    - You can also use an -ing clause to say what happens all the time, not just at a particular time:
+      The road **connecting** the two villages is very narrow. (the road connects the two villages)
+      I have a large room **overlooking** the garden. (the room overlooks the garden)
+      Can you think of the name of a flower **beginning** with T? (the name begins with T)
+
+76. 
