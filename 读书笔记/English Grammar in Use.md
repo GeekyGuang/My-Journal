@@ -955,4 +955,18 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
       I have a large room **overlooking** the garden. (the room overlooks the garden)
       Can you think of the name of a flower **beginning** with T? (the name begins with T)
 
-76. 
+76. Somebody is bored or gets bored if something (or somebody else) is boring.
+    If something is boring, you get bored with it.
+    So:
+    Jane is bored because her job is boring.
+    Jane’s job is boring, so Jane is bored. (not Jane is boring)
+
+    the **-ing** adjective tells you about the job
+
+    the **-ed** adjective tells you how somebody feels (about the job).
+
+77. Not all words ending in -ly are adverbs. Some adjectives end in -ly too, for example:
+    **friendly lively elderly lonely lovely**
+    It was a **lovely** day.
+
+    
