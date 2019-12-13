@@ -969,4 +969,80 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
     **friendly lively elderly lonely lovely**
     It was a **lovely** day.
 
-    
+78. hardly = very little, almost not:
+
+    Hardly goes before the verb:
+    We hardly know each other. (not We know each other hardly)
+
+    **Well** is also an adjective meaning ‘**in good health**’:
+    ‘How are you today?’ ‘I’m very well, thanks.’
+
+    well-informed 见多识广的
+
+    **fast, hard and late**
+    These words are both adjectives and adverbs:
+    adjective adverb
+    Darren is a fast runner. Darren can run fast.
+
+    You can use **hardly + any/anybody/anyone/anything/anywhere**:
+    a: How much money do we have?
+    B: Hardly any. (= very little, almost none)
+
+79. **Quite** and **pretty** are similar in meaning (= less than ‘very’, but more than ‘a little’)
+
+    Anna lives quite near me, so we see each other pretty ofuen.
+
+    Pretty is an informal word and is used mainly in spoken English.
+
+    Sarah has **quite a** good job.
+    Sarah has **a pretty** good job.
+
+    You can also use quite (but not pretty) in the following ways:
+
+    quite a/an + noun (without an adjective):
+
+    I didn’t expect to see them. It was **quite a surprise**. (= quite a big surprise)
+    quite a lot (of …):
+    There were **quite a lot of **guests at the wedding.
+    quite + verb, especially like and enjoy:
+    I **quite like** tennis, but it’s not my favourite sport.
+
+    **Rather** is similar to quite and pretty. We ofuen use rather for negative ideas (things we think are not
+    good):
+    The weather isn’t so good. It’s rather cloudy.
+
+    When we use rather for positive ideas (good/nice etc.), it means ‘unusually’ or ‘surprisingly’:
+    These oranges are rather good. Where did you get them?
+
+    **Fairly** is weaker than quite/rather/pretty. For example, if something is fairly good, it is not very
+    good and it could be better:
+    My room is fairly big, but I’d prefer a bigger one.
+
+    Quite also means ‘completely’. For example:
+    ‘Are you sure?’ ‘Yes, quite sure.’ (= completely sure)
+
+    Compare the two meanings of quite:
+    The story is quite interesting. (= less than ‘very interesting’)
+    The story is quite true. (= completely true) 固定搭配
+
+    I quite agree you.
+
+80. far → further (or farther)
+    It’s a long walk from here to the park – further than I thought. (or farther than)
+    Note that further (but not farther) also means ‘more’ or ‘additional’:
+    Let me know if you hear any **further news.** (= any more news)
+
+81. **older** and **elder**
+    The comparative of old is older:
+    David looks older than he really is. (not looks elder)
+    We use elder only when we talk about people in a family (my elder sister, their elder son etc.).
+    You can also use older:
+    My elder sister is a TV producer. (or My older sister …)
+    But we do not say that ‘somebody is elder’:
+    My sister is older than me. (not elder than me)
+
+    I can't wait **any** longer.
+
+    It's **no** worse than usual.
+
+82. 
