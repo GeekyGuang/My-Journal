@@ -1045,4 +1045,81 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
     It's **no** worse than usual.
 
-82. 
+82. If the verb is one word (drives/cooked etc.), the adverb goes before the verb:
+
+    I cleaned the house and **also** cooked the dinner. (not cooked also)
+
+    Note that these adverbs (always/usually/also etc.) go before have to … :
+    Joe never phones me. I **always** have to phone him. (not I have always to phone)
+    But adverbs go after am/is/are/was/were:
+    We were feeling very tired and we were **also** hungry. (not also were)
+
+    If the verb is two or more words (for example, can remember / will be cancelled), the adverb
+    usually goes afuer the first verb (can/doesn’t/will etc.)
+
+    The house was **only** built a year ago and it’s **already** falling down.
+
+83. Compare still and not … any more:
+    Sally **still** works here, but Lucy **doesn’t** work here **any more**./any longer
+
+    we are **no longer** friends.
+
+    We use **yet** mainly in negative sentences (He isn’t here yet) and questions (Is he here yet?).
+    **Yet (= until now)** shows that the speaker expects something to happen.
+    Yet usually goes at the end of a sentence:
+    It’s 10 o’clock and Joe isn’t here **yet**.
+
+    Is it **still** raining?
+    Has it stopped raining **yet**?
+
+84. even though / even when / even if
+    We use even though / even when / even if + subject + verb:
+    **Even though** Tina can’t drive, she has a car.
+    He never shouts, **even when** he’s angry.
+    This river is dangerous. It’s dangerous to swim in it, **even if** you’re a strong swimmer.
+
+85. **Although** it rained a lot, they had a good time.
+    (= It rained a lot, but they …)
+    or
+    **In spite of** the rain, they had a good time.
+    **Despite** the rain, they had a good time.
+
+    though = although:
+    I didn’t apply for the job **though** I had the necessary qualifications.
+
+    In spoken English we ofu en use though at the end of a sentence:
+    The house isn’t so nice. I like the garden **though**. (= but I like the garden)
+
+    Even though (but not ‘even’ alone) is similar to although:
+    **Even though** I was really tired, I couldn’t sleep. (not even I was really tired)
+
+86. **in case** something happens =
+    because it is possible it will happen
+
+    I’d better write down my password in case I forget it.
+    (= because it is possible I will forget it)
+
+    **in case of** = if there is … (especially on notices, instructions etc.):
+    In case of fire, please leave the building as quickly as possible. (= if there is a fire)
+    In case of emergency, call this number. (= if there is an emergency)
+
+87. unless = except if
+
+    I’ll see you tomorrow **unless** I have to work late.
+    (= except if I have to work late)
+    There are no buses to the beach. **Unless** you have a car, it’s difgicult to get there.
+    (= except if you have a car)
+    a: Shall I tell Lisa what happened?
+    B: Not **unless** she asks you. (= tell her only if she asks you)
+
+    **as long as / so long as and provided / providing**
+    You can say as long as or so long as (= if, on condition that):
+    You can borrow my car **as long as/ so long as **you promise not to drive too fast.
+    (= You can borrow my car, but you must promise not to drive too fast. This is a condition.)
+    You can also say provided (that) or providing (that):
+    Travelling by car is convenient **provided/providing (that)** you have somewhere to park.
+    (= It’s convenient but only if you have somewhere to park.)
+    **provided/providing (that)**the room is clean, I don’t mind which hotel we stay at.
+    (= The room must be clean, but otherwise I don’t mind.)
+
+88. 
