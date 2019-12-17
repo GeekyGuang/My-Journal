@@ -1188,4 +1188,56 @@ You should have done it as I showed you.
     (I have enough to do already)
     Joe’s only 40. Why do you talk about him **as if** he **was** an old man? (he isn’t an old man)
 
-91. 
+91. ‘**When** did you fall asleep?’ ‘**During** the movie.’
+    ‘**How long** were you asleep?’ ‘**For half an hour**.’
+
+    We use while + subject + verb:
+    I fell asleep **while** I was watching TV.
+
+92. by … = not later than:
+    I sent the documents today, so they should arrive **by** Monday.
+    (= on or before Monday, not later than Monday)
+
+    We use until (or till) to say how long a situation continues:
+    a: Shall we go now?
+    B: No, let’s wait **until** it stops raining. or … **till** it stops raining.
+
+    You can say ‘by the time something happens’:
+    It’s too late to go to the bank now. **By the time** we get there, it will be closed.
+    (= it will close between now and the time we get there)
+
+    You can say by then or by that time:
+    Karen finally got to the party at midnight, but **by then** most of the other guests had left .
+    or … but **by that time**, most of the other guests had left .
+
+93. **at the weekends / at weekends** (or on the weekend / on weekends in American English):
+    Will you be here at the weekend? (or … on the weekend)
+
+    **at Christmas (but on Christmas Day)**
+    Do you give each other presents at Christmas?
+    **at night** (= during nights in general), in the night (= during a particular night):
+    I don’t like working at night. but I was woken up by a noise in the night.
+
+    We say that something will happen **in a few minutes / in six months etc. **:
+    The train will be leaving in a few minutes. (= a few minutes from now)
+    Andy has gone away. He’ll be back in a week. (= a week from now)
+    They’ll be here **in a moment.** (= a moment from now, very soon)
+    We also use in … to say how long it takes to do something:
+    I learnt to drive **in four weeks**. (= it took me four weeks to learn)
+
+    on for days: **on my birthday**
+
+    **in the morning(s)** but **on Friday morning(s)**
+
+    **at Christmas** (but **on Christmas Day**)
+
+    at midday
+
+    We **do not** use at/on/in before last/next/this/every:
+    I’ll see you next Friday. (not on next Friday)
+    They got married last June.
+    We often leave out on before days. So you can say:
+    I’ll see you on Friday. or I’ll see you Friday.
+    I don’t work on Monday mornings. or I don’t work Monday mornings.
+
+94. 
