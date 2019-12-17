@@ -1155,7 +1155,22 @@ If I were you, I wouldn’t buy that coat. or If I was you, …
 
     You can also use since in this way:
     Since it’s late and we’re tired, let’s get a taxi home.
-89. 
     
+89. Like = similar to, the same as:
+    What a beautiful house! It’s **like** a palace. (not as a palace)
 
+    Sometimes like = for example. You can also use such as:
+    I enjoy water sports, **like** surfing, scuba diving and water-skiing. or
+    I enjoy water sports, **such as** surfing …
+As = in the same way as, in the same condition as.
+We use as with subject (S) + verb (V):
+I didn’t move anything. I left everything as it was.
+You should have done it as I showed you.
     
+    We also say as you know / as I said / as she expected / as I thought etc. :
+    As you know, it’s Emma’s birthday next week. (= you know this already)
+    
+    As (preposition) = in the position of, in the form of etc. :
+    Many years ago I worked as a photographer. (I was a photographer)
+    
+90. 
