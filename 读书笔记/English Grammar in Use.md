@@ -1173,4 +1173,19 @@ You should have done it as I showed you.
     As (preposition) = in the position of, in the form of etc. :
     Many years ago I worked as a photographer. (I was a photographer)
     
-90. 
+90. We use like or as if to say how somebody/something looks, sounds or feels:
+    That house looks like it’s going to fall down. or
+    That house looks as if it’s going to fall down.
+
+    look/sound/feel **like/as if/as though**
+
+    You can also use** as though** in these examples:
+    I don’t feel as though I’ve had a holiday.
+
+    虚拟语气
+
+    She’s always asking me to do things for her – **as if** I **didn’t** have enough to do already.
+    (I have enough to do already)
+    Joe’s only 40. Why do you talk about him **as if** he **was** an old man? (he isn’t an old man)
+
+91. 
