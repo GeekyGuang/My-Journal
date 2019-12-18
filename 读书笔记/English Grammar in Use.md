@@ -1240,4 +1240,25 @@ You should have done it as I showed you.
     I’ll see you on Friday. or I’ll see you Friday.
     I don’t work on Monday mornings. or I don’t work Monday mornings.
 
-94. 
+94. **on time** = punctual, not late 准时
+    If something happens on time, it happens at the time that was planned:
+    The 11.45 train lefu on time. (= it lefu at 11.45)
+
+    **in time** (for something / to do something) = soon enough 及时
+    Will you be home in time for dinner? (= soon enough for dinner)
+
+    **at the end (of something)** = at the time when something ends
+
+    I’m going away at the end of January / at the end of the month.
+
+    The opposite of at the end is **at the beginning**:
+    I’m going away at the beginning of January. (not in the beginning)
+
+    **in the end** = finally
+    We use in the end when we say what the final result of a situation was:
+    We had a lot of problems with our car. We sold it in the end. (= finally we sold it)
+
+    The opposite of in the end is **at first**:
+    At first we didn’t get on very well, but in the end we became good friends.
+
+95. 
