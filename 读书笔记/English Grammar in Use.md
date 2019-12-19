@@ -1303,6 +1303,22 @@ How much is a hundred pounds in dollars?
     The train was travelling at 120 miles an hour.
     Water boils at 100 degrees Celsius.
     
-97. 
+97. You can say that something happens **by mistake / by accident / by chance**:
+    We hadn’t arranged to meet. We met by chance.
+    But we say ‘do something **on purpose**’ (= you mean to do it):
+    I didn’t do it on purpose. It was an accident.
 
-98. 
+    Did you come here **by car** or **on foot**?
+
+    We say: a play **by** Shakespeare, a painting **by** Rembrandt, a novel **by** Tolstoy etc
+
+    The door must have been opened **by** somebody **with** a key.
+
+    My friends live in a beautiful house by the sea.
+
+98. a reason FOR …
+    The train was late, but nobody knew the reason for the delay. (not reason of)
+
+    
+
+99. 
