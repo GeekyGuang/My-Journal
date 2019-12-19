@@ -1261,4 +1261,48 @@ You should have done it as I showed you.
     The opposite of in the end is **at first**:
     At first we didn’t get on very well, but in the end we became good friends.
 
-95. 
+95. in the mountain
+
+    sit on the balcony
+
+    sit in the front/back row
+
+    at the front/back of the theatre/building
+
+    at the top/bottom/end of 
+
+    on the list/map/river
+
+    in a queue
+
+    at Helen’s house
+
+    at a party
+
+    We say **arrive in** a town or country:
+    They arrived in Madrid / in Spain a week ago.
+    For other places (buildings etc.) or events, we say **arrive at**:
+    What time did you arrive at the hotel / at the airport / at the party?
+
+    The opposite of into is out of:
+    She got **out of** the car and went **into** a shop.
+
+    For buses, trains and planes, we usually say **get on** and **get off**:
+    She got on the bus and I never saw her again.
+    You need to get ofg (the train) at the next station.
+    
+96. in a language / in a currency etc.
+    How do you say ‘thank you’ in Russian?
+How much is a hundred pounds in dollars?
+    
+    at the age of … etc.
+    at the age of 16 / at 90 miles an hour /
+    at 100 degrees etc. :
+    Tracy lefu school at 16. or
+    Tracy lefu school at the age of 16.
+    The train was travelling at 120 miles an hour.
+    Water boils at 100 degrees Celsius.
+    
+97. 
+
+98. 
