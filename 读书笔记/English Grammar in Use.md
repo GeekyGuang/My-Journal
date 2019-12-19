@@ -1319,6 +1319,18 @@ How much is a hundred pounds in dollars?
 98. a reason FOR …
     The train was late, but nobody knew the reason for the delay. (not reason of)
 
+    a solution TO a problem / a key TO a door / an answer TO a question / a reply TO a letter /a reaction TO something
+
+    Did you get a reply to the email you sent?
+
+99. Thank you. It was very **nice of** you to help me.
+
+    They have always been very **nice to** me. (not with me)
+
+    We stayed at home. Chris wasn’t **keen on** going out.
+
+    The streets were **crowded with** tourists.
+
     
 
-99. 
+100. 
