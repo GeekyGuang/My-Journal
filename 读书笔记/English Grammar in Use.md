@@ -1331,6 +1331,74 @@ How much is a hundred pounds in dollars?
 
     The streets were **crowded with** tourists.
 
-    
+100. **shout AT** somebody (when you are angry or aggressive)
+     He got very angry and started shouting at me.
+     **shout TO** somebody (so that they can hear you)
+     He shouted to me from the other side of the street.
+     **throw** something **AT** somebody/something (to hit them)
+     Somebody threw an egg at the politician.
+     **throw** something **TO** somebody (for somebody to catch)
+     Lisa shouted ‘Catch!’ and threw the keys to me from the window.
 
-100. 
+     Be careful with those scissors! Don’t **point** them **at** me!
+
+     laugh at / glance at 
+
+101. **take care OF **… = look afuer, keep safe, take responsibility for
+     Don’t worry about me. I can take care of myself.
+     I’ll take care of the travel arrangements. You don’t need to do anything.
+
+     **care FOR** somebody = take care of them, keep them safe
+     Alan is 85 and lives alone. He needs somebody to care for him.
+     I don’t **care FOR** something = I don’t like it
+     I don’t care for hot weather. (= I don’t like …)
+
+     care ABOUT … = think that somebody/something is important
+     He’s very selfish. He doesn’t **care about** other people.
+     care what/where/how … etc. (without about)
+     You can do what you like. I don’t **care** what you do.
+
+     look AFTER … = take care of, keep safe or in good condition
+     Alan is 85 and lives alone. He needs somebody to **look after** him. (not look for)
+     You can borrow this book, but please **look after** it.
+
+102. search (a person / a place / a bag etc.) FOR …
+     I’ve **searched** the house **for** my keys, but I still can’t find them.
+
+     **discuss** something/ a **discussion about** something
+
+     **ask** the way
+
+     **do** something **about** it.
+
+     We also use think of when we ask for or give an opinion:
+     a: What did you think of the movie?
+     B: I didn’t **think** much **of** it. (= I didn’t like it much)
+
+     complain (TO somebody) ABOUT 
+
+     complain OF a pain, an illness etc.
+
+103. approve / disapprove OF …
+     His parents don’t **approve of** what he does, but they can’t stop him.
+
+     I **congratulated** her **on** doing so well in her exams.
+     The meal was really good. I complimented Mark on his cooking skills.
+
+104. specialise IN …
+     Helen is a lawyer. She specialises in company law.
+
+     translate a book etc. FROM one language INTO another
+     She’s a famous writer. Her books have been**translated** into many languages.
+
+     collide WITH …
+     There was an accident this morning. A bus **collided with** a car.
+
+     divide INTO
+
+     succed in
+
+     I don’t **believe it**.
+
+      
+
