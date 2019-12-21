@@ -1400,5 +1400,5 @@ How much is a hundred pounds in dollars?
 
      I don’t **believe it**.
 
-      
+     Ben’s salary is very low, but it’s enough to **get by**.勉强过活 
 
