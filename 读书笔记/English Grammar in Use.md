@@ -1401,4 +1401,53 @@ How much is a hundred pounds in dollars?
      I don’t **believe it**.
 
      Ben’s salary is very low, but it’s enough to **get by**.勉强过活 
+     
+     look up at the star
+     
+     But if the object is a pronoun (it/them/me/him etc.), only one position is possible:
+     I turned **it** on. (not I turned on it)
+     
+105. drop in = visit somebody at home without arranging to do this
+     I **dropped in** to see Chris on my way home.
+
+     take somebody in = deceive somebody
+     The man said he was a policeman and I believed him. I was completely **taken in**.
+
+     drop out of college / university / a course / a race = stop before you have completely finished
+     Gary went to university but **dropped out** after a year.
+
+     Could you **fill in** this questionnaire? It will only take five minutes.
+
+106. work out = do physical exercises
+     Rachel **works out** at the gym three times a week.
+
+     sort something out = find a solution to, put in order
+     There are a few problems we need to sort out.
+     All these papers are mixed up. I’ll have to **sort** them **out**.
+
+     sort out a problem
+
+     carry out an order
+
+     try out a new product
+
+     We thought she was American at first, but she **turns out to be** Swedish.
+
+     put something off, **put off** doing something = delay it
+     The election has been put ofg until January.
+     We can’t put off making a decision. We have to decide now.
+
+     **see somebody off** = go with them to the airport/station to say goodbye
+     Helen was going away. We went to the station with her to see her off.
+
+     **call something off** = cancel it
+     The concert in the park had to be called off because of the weather.
+
+107. **doze off / drop off / nod off** = fall asleep
+     I dozed off during the lecture. It was very boring.
+
+     **go off** = make an alarm sound
+     Did you hear the alarm go off?
+
+     
 
