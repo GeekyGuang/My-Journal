@@ -1448,6 +1448,61 @@ How much is a hundred pounds in dollars?
 
      **go off** = make an alarm sound
      Did you hear the alarm go off?
+     
+108. bent down
+     
+     let sb down
+     
+     the shop closed
+     
+109. catch up with 追上
+
+     keep up with 跟上
+
+     **take up** a hobby, a sport, an activity etc. = start doing it
+     Laura took up photography a few years ago. She takes really good pictures.
+
+     **make up** something, be made up of something
+     Children under 16 make up half the population of the city.
+     (= half the population are children under 16)
+     Air is made up mainly of nitrogen and oxygen. (= Air consists of …)
+
+     **fix up** a meeting etc. = arrange it
+     We’ve fixed up a meeting for next Monday.
+
+     be made up of
+
+110. make something up 编造
+
+     **blow up** = explode, blow something up = destroy it with a bomb etc.
+     The engine caught fire and blew up.
+
+     **put up with** something = tolerate a difgicult situation or person
+     We live on a busy road, so we have to put up with a lot of noise from the trafgic.
+
+     **hold up** a person, a plan etc. = delay
+     Don’t wait for me. I don’t want to hold you up.
+
+     **do up** a coat, a shoelace, buttons etc. = fasten, tie etc.
+     It’s quite cold. Do up your coat before you go out.
+
+     **do up** a building, a room etc. = repair and improve it
+     The kitchen looks great now that it has been done up.
+
+     **get back to somebody **= reply to them by phone etc.
+     I sent him an email, but he never got back to me.
+
+     **look back (on something) **= think about what happened in the past
+     My first job was in a travel agency. I didn’t like it much at the time but, looking back on it,
+     I learnt a lot and it was a useful experience.
+
+     **pay back money**, pay somebody back
+     If you borrow money, you have to pay it back.
+     Thanks for lending me the money. I’ll pay you back next week.
+
+     give away 捐赠
+
+     
 
      
 
